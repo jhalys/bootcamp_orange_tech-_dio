@@ -14,10 +14,6 @@ body {
     background-color: #fff;
 }
 
-.content h1 {
-    margin: 0;
-}
-
 @media screen and (min-width: 992px) {
     .content {
         max-width: 992px;
